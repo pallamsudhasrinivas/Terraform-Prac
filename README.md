@@ -1,1 +1,4 @@
-# Terraform-Prac
+# Terraform Basics
+
+<b>Provider</b>: 
+
